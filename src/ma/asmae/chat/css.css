@@ -1,0 +1,47 @@
+.label{
+    -fx-font-size: 14px;
+    -fx-font-family:"System";
+    -fx-fill-width: bold;
+    -fx-text-fill: #fce988;
+}
+.title{
+    -fx-font-size: 20px;
+    -fx-font-family:"Arial";
+    -fx-font-weight: bold ;
+    -fx-text-fill: #fce988;
+}
+.button{
+    -fx-background-color:#212120;
+    -fx-font-size: 16px;
+}
+.button:hover{
+    -fx-text-fill: #02bbbb;
+}
+.text-field{
+    -fx-background-color: #212120;
+    -fx-background-radius: 10px;
+    -fx-border-color: #fce988;
+    -fx-border-radius: 5px;
+    -fx-text-fill: #fce988;
+
+}
+.check-box{
+    -fx-background-color: #fce988;
+    -fx-background-radius: 20px;
+    -fx-border-radius: 10px;
+
+}
+.scroll-pane{
+    -fx-background-color: #fce988;
+    -fx-background-radius: 20px;
+    -fx-border-radius: 10px;
+}
+.vbox{
+    -fx-background-image: url("images/sunFlower3.jpg");
+    -fx-background-radius: 20px;
+    -fx-border-radius: 10px;
+}
+.root{
+    /*-fx-background-image: url("images/sunFlower3.jpg");*/
+    -fx-background-color: #212120;
+}

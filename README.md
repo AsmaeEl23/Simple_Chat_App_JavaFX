@@ -10,6 +10,8 @@
 <center><img src="src/ma/asmae/chat/images/interface2.png"></center>
 <br><br><br><br>
 <h4>Example of chat between tree users</h4>
-<p>You can found a video in my LinkedIn account</p>
+<p>You can found a video in my LinkedIn account
 <a href="https://www.linkedin.com/posts/asmae-el-hyani-275086226_chat-linkedin-video-activity-7034952524637863936-UCGT?utm_source=share&utm_medium=member_desktop">Video</a>
-<p>I tried to make this chat using Multi Threads Blocking IO, I can use any other method with the same way.</p>
+</p>
+<img src="src/ma/asmae/chat/images/img.png">
+<p>I developed this chat using Multi Threads Blocking IO, It can be developed by other method with the same way.</p>
